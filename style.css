@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.one{
+    background-color: rgb(190, 218, 79);
+    height: 300px;
+    width: 200px;
+}
+.two td{
+    text-align: center;
+    color: rgb(38, 4, 110);
+}
+.two th{
+    color: brown;
+}
